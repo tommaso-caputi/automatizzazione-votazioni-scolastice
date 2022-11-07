@@ -51,5 +51,8 @@ pip install webbrowser requests google_auth_oauthlib
 ![Alt text](/screen/studenti_html.png?raw=true "studenti.html")
 ![Alt text](/screen/creazioneForm_html.png?raw=true "creazioneForm.html")
 
+## Contatti
+tommasocaputi85@gmail.com
+
 ## Licenza
 [MIT](https://choosealicense.com/licenses/mit/)
